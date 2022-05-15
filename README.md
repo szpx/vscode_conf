@@ -1,5 +1,5 @@
 ## Installation
-Install Material Dark Theme (Rafael-Avalos) from vscode extension extension
+Install Material Dark Theme (Rafael-Avalos) from vscode extension
 
 Install "Fira Code" font  :
 ```sh
