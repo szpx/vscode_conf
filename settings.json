@@ -1,0 +1,19 @@
+{
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "editor.minimap.enabled": false,
+  "terminal.integrated.cursorStyle": "underline",
+  "workbench.colorTheme": "Material Dark Theme",
+  "workbench.startupEditor": "none",
+  "editor.cursorStyle": "line-thin",
+  "editor.fontWeight": "600",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#fff",
+    "editorBracketHighlight.foreground2": "#5cff95",
+    "editorBracketHighlight.foreground3": "#f9f06b"
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true
+}
