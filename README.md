@@ -1,15 +1,21 @@
 ## Installation
 Install Material Dark Theme (Rafael-Avalos) from vscode extension extension
 
+Install "Fira Code" font  :
+```sh
+sudo apt install fonts-firacode
+```
+
 Replace the "Material dark theme-color-theme.json" file in :
 ```sh
 cd /home/username/.vscode/extensions/rafael-avalos.dark-colors-theme-1.1.2/themes
 ```
-Replace the "settings.json" file (vscode) in :
 
+Replace the "settings.json" file (vscode) in :
 ```sh
 cd /home/username/.config/Code/User
 ```
+
 ## Tips
 | Command | Option | Result |
 | ------ | ------ | ------ |
