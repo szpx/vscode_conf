@@ -755,7 +755,7 @@
 		{
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#00FFDD"
 			}
 		},
 		{
@@ -804,6 +804,18 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#FF2681"
+			}
+		},
+		{
+			"scope": "punctuation.definition.tag.begin.html",
+			"settings": {
+				"foreground": "#00E1FF"
+			}
+		},
+		{
+			"scope": "punctuation.definition.tag.end.html",
+			"settings": {
+				"foreground": "#00E1FF"
 			}
 		},
 		{
