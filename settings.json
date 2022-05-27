@@ -2,18 +2,32 @@
   "files.autoSave": "afterDelay",
   "workbench.iconTheme": "Monokai Pro Icons",
   "editor.minimap.enabled": false,
+  "editor.hover.enabled": true,
   "terminal.integrated.cursorStyle": "underline",
-  "workbench.colorTheme": "Material Dark Theme",
   "workbench.startupEditor": "none",
   "editor.cursorStyle": "line-thin",
-  "editor.fontWeight": "600",
+  "editor.fontWeight": "normal",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
   "workbench.colorCustomizations": {
-    "editorBracketHighlight.foreground1": "#fff",
-    "editorBracketHighlight.foreground2": "#5cff95",
-    "editorBracketHighlight.foreground3": "#f9f06b"
+    "editorBracketHighlight.foreground1": "#ffde9f",
+    "editorBracketHighlight.foreground2": "#9ffff9",
+    "editorBracketHighlight.foreground3": "#ff9f9f",
   },
   "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "extensions.ignoreRecommendations": true,
+  "workbench.colorTheme": "Material Dark Theme",
+  "colorize.languages": [
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "postcss",
+    "sss",
+    "stylus",
+    "xml",
+    "svg",
+    "javascript",
+  ]
 }
